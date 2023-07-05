@@ -1,6 +1,8 @@
 We are **85clab0** 👋
 
-This circle does many things. (OSS Tools, Illustration, Participation in Hackathons, Tech Book, ... and more !)
+This circle is a circle that does various things ~~(according to plans)~~. 
+
+OSS Tools, Illustration, Participation in Hackathons, Tech Book, ... and more !
 
 <!--
 
