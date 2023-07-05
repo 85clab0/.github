@@ -1,4 +1,6 @@
-## Hi there 👋
+We are **85clab0** 👋
+
+This circle does many things. (OSS Tools, Illustration, Participation in Hackathons, Tech Book, ... and more !)
 
 <!--
 
