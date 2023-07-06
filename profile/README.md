@@ -2,7 +2,13 @@ We are **85clab0** 👋
 
 This circle is a circle that does various things ~~(according to plans)~~. 
 
-OSS Tools, Illustration, Participation in Hackathons, Tech Book, ... and more !
+OSS Tools, Game, Tech Book, Illustration, Participation in Hackathons, ... and more !
+
+## FAQ
+
+How to pronounce the name "85clab0" ?
+
+`85` is pronounced like "Yakou", `clab0` is pronounced like "club".
 
 <!--
 
